@@ -1,7 +1,7 @@
 name: cohack-cicd
 
 env:
-  AZURE_LOCATION: westeurope
+  AZURE_LOCATION: eastus
 
 on:
   push:
